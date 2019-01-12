@@ -2,7 +2,7 @@
 \Problem name: 
 
 Maximize
- obj: 19 x1 - 19 x11
+ obj:
 Subject To
  c1:  - x1 + x16  = 18
  c2:  - x2 + x17  = 13
